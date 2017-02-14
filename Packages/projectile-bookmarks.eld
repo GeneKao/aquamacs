@@ -1,1 +1,1 @@
-("~/Documents/UnrealEngine/ExamplesPractice/MyFirstApp/")
+("~/Library/Preferences/Aquamacs Emacs/" "~/Documents/UnrealEngine/ExamplesPractice/MyFirstApp/")

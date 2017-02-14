@@ -1,6 +1,7 @@
 ;;; -*- coding: utf-8 -*-
-(("/Users/kaogene/Documents/javascriptLearning/simple/program.js" . 20)
- ("/Users/kaogene/Library/Preferences/Aquamacs Emacs/Preferences.el" . 8306)
+(("/Users/kaogene/Documents/javascriptLearning/simple/program.html" . 92)
+ ("/Users/kaogene/Library/Preferences/Aquamacs Emacs/Preferences.el" . 8367)
+ ("/Users/kaogene/Documents/javascriptLearning/simple/program.js" . 2)
  ("/Users/kaogene/Library/Preferences/Aquamacs Emacs/Packages/elpa/ac-js2-20140906.442/ac-js2-autoloads.el" . 1127)
  ("/Users/kaogene/Library/Preferences/Aquamacs Emacs/Packages/elpa/skewer-mode-20170122.938/skewer-mode-autoloads.el" . 2733)
  ("/Users/kaogene/Library/Preferences/Aquamacs Emacs/Packages/elpa/simple-httpd-20170125.1910/simple-httpd-autoloads.el" . 781)
@@ -16,7 +17,6 @@
  ("/Users/kaogene/Library/Preferences/Aquamacs Emacs/Packages/elpa/projectile-20170106.606/projectile-autoloads.el" . 14028)
  ("/Users/kaogene/Library/Preferences/Aquamacs Emacs/Packages/elpa/ggtags-20161022.251/ggtags-autoloads.el" . 1232)
  ("/Users/kaogene/Library/Preferences/Aquamacs Emacs/Packages/elpa/highlight-symbol-20160102.1209/highlight-symbol-autoloads.el" . 2840)
- ("/Users/kaogene/Documents/javascriptLearning/simple/program.html" . 276)
  ("/Users/kaogene/Library/Preferences/Aquamacs Emacs/Packages/elpa/cpputils-cmake-20170203.155/cpputils-cmake-autoloads.el" . 1019)
  ("/Users/kaogene/Library/Preferences/Aquamacs Emacs/Packages/elpa/company-jedi-20151216.1921/company-jedi-autoloads.el" . 534)
  ("/Users/kaogene/Library/Preferences/Aquamacs Emacs/Packages/elpa/jedi-core-20170121.610/jedi-core-autoloads.el" . 3753)

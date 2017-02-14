@@ -274,3 +274,9 @@
 ;; javascript autocomplete. ac-js2
 (add-hook 'js2-mode-hook 'ac-js2-mode)
 (add-hook 'js2-mode-hook 'skewer-mode)
+
+
+
+;; show line number
+(add-hook 'prog-mode-hook 'linum-mode)
+(global-hl-line-mode +1)
