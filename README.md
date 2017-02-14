@@ -1,0 +1,2 @@
+# aquamacs
+personal aqumacs settings.
